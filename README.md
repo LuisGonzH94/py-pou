@@ -2,12 +2,13 @@
 
 # Diseña el juego llamado Pou
 
-https://play.google.com/store/apps/details?id=me.pou.app&hl=es&gl=US
+- https://play.google.com/store/apps/details?id=me.pou.app&hl=es&gl=US
+- https://manytools.org/hacker-tools/convert-images-to-ascii-art/go/
 
 
-# play, eat, sleep, exit (5pts)
-# more methods, while loop (5pts)
-# better interface
+- play, eat, sleep, exit (5pts)
+- more methods, while loop (4pts)
+- better interface (1pts)
 
 ```python
 import random
